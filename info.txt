@@ -1,0 +1,13 @@
+Used jwttoken using jsonwebtoken, bcrypt for hasing password
+
+Created an auth middleware to only allow users with jwt to access the resources.
+
+React-router-dom for react-router-dom is the standard library for implementing client-side routing in React web applications
+
+App.js in both client side and server side, we've used it for routing purposes.
+
+For React what we're writing in functions is not javascript but JSX i.e Javascript XML
+
+JSX is converted to Javascript by the browser by tools such as Babel.
+
+Using react-hot-toast to display toast messages, which are short messages to display the response.

@@ -1,0 +1,4 @@
+mongodb+srv://chat-application-admin:0U5dBqImkz7IBXuR@cluster0.auqmf.mongodb.net/chat-application
+
+username: chat-application-admin
+0U5dBqImkz7IBXuR
